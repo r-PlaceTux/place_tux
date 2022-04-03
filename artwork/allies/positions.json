@@ -23,5 +23,10 @@
     "img_url": "fancade.png",
     "x0": 72,
     "y0": 690
+  },
+  {
+    "img_url": "fancade_2.png",
+    "x0": 1350,
+    "y0": 135
   }
 ]
