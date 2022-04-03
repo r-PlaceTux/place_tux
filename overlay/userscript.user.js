@@ -10,8 +10,7 @@
 // @license      GPL-3.0
 // ==/UserScript==
 
-const checkDelay = 10000
-const slowCheckDelay = 10000
+const checkDelay = 120000
 const hashes = {}
 
 // please only insert hash url, otherwise reload without checking hash
