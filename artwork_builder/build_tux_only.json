@@ -1,6 +1,6 @@
 {
   "output_fname": "../.build/tux_combined_tux.png",
   "width": 2000,
-  "height": 1000,
+  "height": 2000,
   "artwork_groups": ["tux"]
 }
