@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         r/PlaceTux Overlay Blur Fix
 // @namespace    https://github.com/r-PlaceTux/place_tux
-// @version      1.0.8
+// @version      1.0.10
 // @description  FLOSS forever!
 // @author       r/PlaceTux
 // @match        https://hot-potato.reddit.com/embed*
