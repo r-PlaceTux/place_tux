@@ -2,7 +2,7 @@
 // @name         r/PlaceTux Overlay
 // @namespace    https://github.com/r-PlaceTux/place_tux
 // @homepageURL  https://github.com/r-PlaceTux/place_tux/tree/main/overlay
-// @version      1.0.12
+// @version      1.0.13
 // @description  FLOSS forever!
 // @author       r/PlaceTux
 // @match        https://hot-potato.reddit.com/embed*
@@ -23,7 +23,7 @@ if (window.top !== window.self) {
             const i = document.createElement("img");
             i.src = "https://r-placetux.github.io/place_tux/tux_overlay.png";
             i.style =
-              "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2000px;height: 1000px;";
+              "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2000px;height: 2000px;";
             console.log(i);
             return i;
           })()
@@ -42,7 +42,7 @@ if (window.top !== window.self) {
             const j = document.createElement("img");
             j.src = "https://github.com/Atkion/placeCosmereOverlay/raw/master/template.png";
             j.style =
-              "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2000px;height: 1000px;";
+              "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2000px;height: 2000px;";
             console.log(j);
             return j;
           })()
