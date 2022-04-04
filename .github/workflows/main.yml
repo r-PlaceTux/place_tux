@@ -24,17 +24,16 @@ jobs:
       - name: Copy raw files
         run: |
           mkdir .build
-          rm -r .build/*
           cp ./artwork/tux/tux.png ./.build/tux_raw.png
 
 
-#       - name: Copy all images
-#         run: |
-#           cp -R ./artwork/ ./.build/artwork/
+      - name: Copy all images
+        run: |
+          cp -R ./artwork/ ./.build/artwork/
 
-#       - name: Set priority
-#         run: |
-#           cp ./priority.txt ./.build/priority
+      - name: Set priority
+        run: |
+          cp ./priority.txt ./.build/priority
 
       - name: Build tux_coords.png
         run: |
