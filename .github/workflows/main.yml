@@ -21,10 +21,10 @@ jobs:
           pip install -r coord_gen/requirements.txt
           pip install -r wallpaper_builder/requirements.txt
 
-#       - name: Copy raw files
-#         run: |
-#           mkdir .build
-#           cp ./artwork/tux/tux.png ./.build/tux_raw.png
+      - name: Copy raw files
+        run: |
+          mkdir .build
+          cp ./artwork/tux/tux.png ./.build/tux_raw.png
 
 
 #       - name: Copy all images
