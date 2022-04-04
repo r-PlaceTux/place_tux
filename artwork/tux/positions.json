@@ -3,5 +3,10 @@
     "img_url": "tux.png",
     "x0": 20,
     "y0": 679
+  },
+  {
+    "img_url": "taskbar-tux.png",
+    "x0": 569,
+    "y0": 1974
   }
 ]
