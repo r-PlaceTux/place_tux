@@ -1,1 +1,1 @@
-https://r-placetux.github.io/place_tux/artwork/allies/fancade_2.png
+https://r-placetux.github.io/place_tux/artwork/tux/tux.png
