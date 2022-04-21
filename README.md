@@ -1,6 +1,6 @@
 # Tux on [r/place](https://www.reddit.com/r/place/?cx=36&cy=736&px=12)
 
-![live updating subreddit subscriber count](https://img.shields.io/badge/dynamic/json?url=https://www.reddit.com/r/placetux/about.json&label=RedditSubscibers&query=data.subscribers)
+![live updating subreddit subscriber count](https://img.shields.io/badge/dynamic/json?url=https://www.reddit.com/r/placetux/about.json&label=Reddit%20Subscibers&query=data.subscribers)
 
 You can reach us directly on [GitHub](https://github.com/r-PlaceTux/place_tux/issues/new/choose), [Discord](https://discord.gg/cYB7GjWNp8), [Matrix](https://matrix.to/#/#placetux:matrix.org), or [Telegram](https://t.me/+ykZ9LXrdFJZkNzRh).
 
